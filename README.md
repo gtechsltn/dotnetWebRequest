@@ -1,4 +1,4 @@
-# dotnetWebRequest
+# dotnetWebRequest: HttpWebRequest + HttpWebResponse
 
 + System.Net.WebRequest
 + System.Net.HttpWebRequest
