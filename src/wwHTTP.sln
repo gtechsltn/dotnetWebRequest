@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.34407.143
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34511.98
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wwHTTP", "wwHTTP\wwHTTP.csproj", "{3E46C988-658E-4E27-822C-6A3B0A9B983F}"
 EndProject
@@ -8,6 +8,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 	ProjectSection(SolutionItems) = preProject
 		..\README.md = ..\README.md
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wwHTTP.Tests", "..\tests\wwHTTP.Tests\wwHTTP.Tests.csproj", "{0CA006BD-AF5A-46C5-9F5A-0CFC5870F4A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,6 +21,10 @@ Global
 		{3E46C988-658E-4E27-822C-6A3B0A9B983F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E46C988-658E-4E27-822C-6A3B0A9B983F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E46C988-658E-4E27-822C-6A3B0A9B983F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CA006BD-AF5A-46C5-9F5A-0CFC5870F4A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CA006BD-AF5A-46C5-9F5A-0CFC5870F4A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CA006BD-AF5A-46C5-9F5A-0CFC5870F4A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CA006BD-AF5A-46C5-9F5A-0CFC5870F4A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
