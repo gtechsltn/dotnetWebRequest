@@ -4,6 +4,9 @@
 + System.Net.HttpWebRequest
 + System.Net.HttpWebResponse
 
+https://docs.google.com/document/d/10RF1ySgGdwD_BSz58ZchmHM3wEAs93b8gw87jZvP0-g/
+
+https://github.com/gtechsltn/dotnetWebRequest
 
 # Git
 
